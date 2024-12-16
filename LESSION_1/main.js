@@ -1,2 +1,4 @@
-var fullName = 'tran minh quan'
-console.log(fullName)
+var age = 20 
+var nextAge = ++age
+
+console.log(nextAge)
